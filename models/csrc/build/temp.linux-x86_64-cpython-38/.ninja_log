@@ -1,0 +1,6 @@
+# ninja log v5
+0	13242	1715613835075632267	/home/ubuntu/modi/xy/13-hashnerf/ngp_pl-master/models/csrc/build/temp.linux-x86_64-cpython-38/binding.o	4d1d1a220190f8a2
+0	26476	1715613848315967882	/home/ubuntu/modi/xy/13-hashnerf/ngp_pl-master/models/csrc/build/temp.linux-x86_64-cpython-38/raymarching.o	8391f644e514b6cb
+0	26546	1715613848387969707	/home/ubuntu/modi/xy/13-hashnerf/ngp_pl-master/models/csrc/build/temp.linux-x86_64-cpython-38/intersection.o	8d194e72c84eb265
+0	28775	1715613850616026184	/home/ubuntu/modi/xy/13-hashnerf/ngp_pl-master/models/csrc/build/temp.linux-x86_64-cpython-38/volumerendering.o	7e56e97e67294f39
+0	30732	1715613852572075765	/home/ubuntu/modi/xy/13-hashnerf/ngp_pl-master/models/csrc/build/temp.linux-x86_64-cpython-38/losses.o	1d2f17de05c6a36
